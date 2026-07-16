@@ -41,11 +41,6 @@ Local Apple Health export insights for macOS.
 A collection of original, importable animated pets for ChatGPT and Codex.  
 [GitHub](https://github.com/Schrotty74/chatgpt-pets)
 
-### LGTV Firmware Downgrade
-
-Technical guide and resources for LG webOS firmware downgrade.  
-[GitHub](https://github.com/Schrotty74/LGTV-Firmware-Downgrade)
-
 ### Provision
 
 Tools for interacting with Apple provisioning services on Linux.  
