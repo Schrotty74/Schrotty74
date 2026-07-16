@@ -41,10 +41,6 @@ Local Apple Health export insights for macOS.
 A collection of original, importable animated pets for ChatGPT and Codex.  
 [GitHub](https://github.com/Schrotty74/chatgpt-pets)
 
-### Portfolio
-
-The project overview site for all Schrotty74 apps and tools.  
-[Open portfolio](https://schrotty74.github.io/Portfolio/) · [GitHub](https://github.com/Schrotty74/Portfolio)
 
 ## Principles
 
