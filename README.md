@@ -2,7 +2,7 @@
 
 Privacy-focused macOS apps and offline-first web projects.
 
-[Portfolio](https://schrotty74.github.io/Portfolio/) · [All repositories](https://github.com/Schrotty74?tab=repositories)
+[Portfolio](https://schrotty74.github.io/Portfolio/) · [Discord](https://discord.gg/RbsvqRCPQ) · [All repositories](https://github.com/Schrotty74?tab=repositories)
 
 ## Featured projects
 
