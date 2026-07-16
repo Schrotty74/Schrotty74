@@ -36,6 +36,26 @@ Local logging and analysis for urine and fluid records.
 Local Apple Health export insights for macOS.  
 [GitHub](https://github.com/Schrotty74/HealthAtlas)
 
+### ChatGPT Pets
+
+A collection of original, importable animated pets for ChatGPT and Codex.  
+[GitHub](https://github.com/Schrotty74/chatgpt-pets)
+
+### LGTV Firmware Downgrade
+
+Technical guide and resources for LG webOS firmware downgrade.  
+[GitHub](https://github.com/Schrotty74/LGTV-Firmware-Downgrade)
+
+### Provision
+
+Tools for interacting with Apple provisioning services on Linux.  
+[GitHub](https://github.com/Schrotty74/Provision)
+
+### Portfolio
+
+The project overview site for all Schrotty74 apps and tools.  
+[Open portfolio](https://schrotty74.github.io/Portfolio/) · [GitHub](https://github.com/Schrotty74/Portfolio)
+
 ## Principles
 
 - Local-first, privacy-conscious software
