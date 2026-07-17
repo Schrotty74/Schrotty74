@@ -43,6 +43,5 @@ A collection of original, importable animated pets for ChatGPT and Codex.
 
 ### Shortcuts
 
-Public Apple Shortcuts, starting with `Wetter für Stadt`: a bilingual weather shortcut with Open-Meteo data, release ZIP, checksums and privacy report.  
+Public Apple Shortcuts, starting with `Weather for City`: a bilingual weather shortcut with Open-Meteo data, release ZIP, checksums and privacy report.  
 [GitHub](https://github.com/Schrotty74/Shortcuts) · [Release v1.0](https://github.com/Schrotty74/Shortcuts/releases/tag/v1.0)
-
