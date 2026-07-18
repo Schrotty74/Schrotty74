@@ -29,19 +29,19 @@ Retro-styled offline calculator PWA.
 ### UroBilanz
 
 Local logging and analysis for urine and fluid records.  
-[GitHub](https://github.com/Schrotty74/UroBilanz)
+[GitHub](https://github.com/Schrotty74/UroBilanz) · [Details](https://schrotty74.github.io/Portfolio/projects/urobilanz.html)
 
 ### HealthAtlas
 
 Local Apple Health export insights for macOS.  
-[GitHub](https://github.com/Schrotty74/HealthAtlas)
+[GitHub](https://github.com/Schrotty74/HealthAtlas) · [Details](https://schrotty74.github.io/Portfolio/projects/healthatlas.html)
 
 ### ChatGPT Pets
 
 A collection of original, importable animated pets for ChatGPT and Codex.  
-[GitHub](https://github.com/Schrotty74/chatgpt-pets)
+[GitHub](https://github.com/Schrotty74/chatgpt-pets) · [Details](https://schrotty74.github.io/Portfolio/projects/chatgpt-pets.html)
 
 ### Shortcuts
 
 Public Apple Shortcuts with preview images, privacy reports, signed downloads, checksums, and bilingual documentation.
-[Shortcut collection](https://github.com/Schrotty74/Shortcuts)
+[Shortcut collection](https://github.com/Schrotty74/Shortcuts) · [Details](https://schrotty74.github.io/Portfolio/projects/shortcuts.html)
