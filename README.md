@@ -24,7 +24,7 @@ Private, offline-first household budget PWA.
 ### CALC BOY
 
 Retro-styled offline calculator PWA.  
-[Open app](https://schrotty74.github.io/CalcBoy/) · [GitHub](https://github.com/Schrotty74/CalcBoy)
+[Open app](https://schrotty74.github.io/CalcBoy/) · [GitHub](https://github.com/Schrotty74/CalcBoy) · [Details](https://schrotty74.github.io/Portfolio/projects/calcboy.html)
 
 ### UroBilanz
 
