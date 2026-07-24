@@ -16,6 +16,11 @@ Organise local app collections, metadata and licence information.
 Index, compare and manage local files and backups on macOS.  
 [GitHub](https://github.com/Schrotty74/FileAtlas) · [Details](https://schrotty74.github.io/Portfolio/projects/fileatlas.html)
 
+### CodexVault
+
+Create verified local backups of Codex data and selected project folders on macOS.  
+[GitHub](https://github.com/Schrotty74/CodexVault)
+
 ### BudgetApp
 
 Private, offline-first household budget PWA.  
