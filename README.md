@@ -19,7 +19,7 @@ Index, compare and manage local files and backups on macOS.
 ### CodexVault
 
 Create verified local backups of Codex data and selected project folders on macOS.  
-[GitHub](https://github.com/Schrotty74/CodexVault)
+[GitHub](https://github.com/Schrotty74/CodexVault) · [Details](https://schrotty74.github.io/Portfolio/projects/codexvault.html)
 
 ### BudgetApp
 
