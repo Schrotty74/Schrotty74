@@ -31,6 +31,11 @@ Private, offline-first household budget PWA.
 Retro-styled offline calculator PWA.  
 [Open app](https://schrotty74.github.io/CalcBoy/) · [GitHub](https://github.com/Schrotty74/CalcBoy) · [Details](https://schrotty74.github.io/Portfolio/projects/calcboy.html)
 
+### Skybreak Protocol
+
+Vertical cyberpunk arcade game with ten levels, an upgradeable robot ice pick, adaptive graphics up to 4K, and an original techno soundtrack.<br>
+[Play game](https://schrotty74.github.io/Skybreak-Protocol/) · [GitHub](https://github.com/Schrotty74/Skybreak-Protocol) · [Details](https://schrotty74.github.io/Portfolio/projects/skybreak-protocol.html)
+
 ### UroBilanz
 
 Local logging and analysis for urine and fluid records.  
