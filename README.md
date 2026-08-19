@@ -4,6 +4,13 @@ Privacy-focused macOS apps and offline-first web projects.
 
 [Portfolio](https://schrotty74.github.io/Portfolio/) · [Discord](https://discord.gg/RbsvqRCPQ) · [Principles](https://github.com/Schrotty74/Schrotty74/blob/main/PRINCIPLES.md) · [All repositories](https://github.com/Schrotty74?tab=repositories)
 
+## GitHub stats
+
+[![Followers](https://img.shields.io/github/followers/Schrotty74?label=Followers&style=flat)](https://github.com/Schrotty74?tab=followers)
+[![AppAtlas stars](https://img.shields.io/github/stars/Schrotty74/AppAtlas?label=AppAtlas%20stars&style=flat)](https://github.com/Schrotty74/AppAtlas/stargazers)
+[![FileAtlas stars](https://img.shields.io/github/stars/Schrotty74/FileAtlas?label=FileAtlas%20stars&style=flat)](https://github.com/Schrotty74/FileAtlas/stargazers)
+[![Skybreak stars](https://img.shields.io/github/stars/Schrotty74/Skybreak-Protocol?label=Skybreak%20stars&style=flat)](https://github.com/Schrotty74/Skybreak-Protocol/stargazers)
+
 ## Featured projects
 
 ### AppAtlas
