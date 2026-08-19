@@ -13,10 +13,10 @@ env:
 
 jobs:
   metrics:
-    if: ${{ env.METRICS_TOKEN != '' }}
     runs-on: ubuntu-latest
     steps:
       - name: Generate profile metrics
+        if: ${{ env.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
