@@ -55,3 +55,7 @@ A collection of original, importable animated pets for ChatGPT and Codex.
 
 Public Apple Shortcuts with preview images, privacy reports, signed downloads, checksums, and bilingual documentation.
 [Shortcut collection](https://github.com/Schrotty74/Shortcuts) · [Details](https://schrotty74.github.io/Portfolio/projects/shortcuts.html)
+
+## Repo activity
+
+![Alt](https://repobeats.axiom.co/api/embed/0852992b9a9dd20e8da5180bec4de147c4108b9c.svg "Repobeats analytics image")
