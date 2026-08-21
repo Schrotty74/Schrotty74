@@ -61,6 +61,11 @@ Local logging and analysis for urine and fluid records.
 Local Apple Health export insights for macOS.  
 [GitHub](https://github.com/Schrotty74/HealthAtlas) · [Details](https://schrotty74.github.io/Portfolio/projects/healthatlas.html)
 
+### ThermalAtlas
+
+Local, read-only Apple Silicon temperature monitoring for CPU, GPU, internal SSD and detected external SSDs from the macOS menu bar.<br>
+[GitHub](https://github.com/Schrotty74/ThermalAtlas) · [Releases](https://github.com/Schrotty74/ThermalAtlas/releases) · [Details](https://schrotty74.github.io/Portfolio/projects/thermalatlas.html)
+
 ### ChatGPT Pets
 
 A collection of original, importable animated pets for ChatGPT and Codex.  

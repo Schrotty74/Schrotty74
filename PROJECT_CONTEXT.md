@@ -23,8 +23,9 @@ before claiming a project, URL, platform, or release status has changed.
 - `.gitignore` excludes macOS metadata files from the public repository.
 
 The README currently links to the portfolio, Discord, principles, all public
-repositories, and selected projects: AppAtlas, FileAtlas, BudgetApp, CALC BOY,
-UroBilanz, HealthAtlas, ChatGPT Pets, and Shortcuts.
+repositories, and selected projects: AppAtlas, FileAtlas, CodexVault,
+BudgetApp, CALC BOY, Skybreak Protocol, UroBilanz, HealthAtlas, ThermalAtlas,
+ChatGPT Pets, and Shortcuts.
 
 ## Rules
 
