@@ -1,5 +1,7 @@
 # SCHROTTY74
 
+[Deutsch](README.de.md)
+
 Privacy-focused macOS apps and offline-first web projects.
 
 [Portfolio](https://schrotty74.github.io/Portfolio/) · [Discord](https://discord.gg/Zy93AaYFaj) · [Principles](https://github.com/Schrotty74/Schrotty74/blob/main/PRINCIPLES.md) · [All repositories](https://github.com/Schrotty74?tab=repositories)
