@@ -50,7 +50,7 @@ Retro-styled offline calculator PWA.
 
 ### Skybreak Protocol
 
-Vertical cyberpunk arcade game with ten levels, an upgradeable robot ice pick, adaptive graphics up to 4K, and an original techno soundtrack.<br>
+Vertical cyberpunk arcade game with fourteen levels, an upgradeable robot ice pick, adaptive graphics up to 4K, and an original techno soundtrack.<br>
 [Play game](https://schrotty74.github.io/Skybreak-Protocol/) · [GitHub](https://github.com/Schrotty74/Skybreak-Protocol) · [Details](https://schrotty74.github.io/Portfolio/projects/skybreak-protocol.html)
 
 ### UroBilanz
