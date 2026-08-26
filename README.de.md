@@ -50,7 +50,7 @@ Offline-Taschenrechner-PWA im Retro-Stil.
 
 ### Skybreak Protocol
 
-Vertikales Cyberpunk-Arcade-Spiel mit zehn Leveln, aufrüstbarem Roboter-Eispickel, adaptiver Grafik bis 4K und eigenem Techno-Soundtrack.<br>
+Vertikales Cyberpunk-Arcade-Spiel mit vierzehn Leveln, aufrüstbarem Roboter-Eispickel, adaptiver Grafik bis 4K und eigenem Techno-Soundtrack.<br>
 [Spiel starten](https://schrotty74.github.io/Skybreak-Protocol/) · [GitHub](https://github.com/Schrotty74/Skybreak-Protocol) · [Details](https://schrotty74.github.io/Portfolio/projects/skybreak-protocol.html)
 
 ### UroBilanz
