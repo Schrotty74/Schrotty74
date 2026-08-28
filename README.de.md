@@ -12,7 +12,6 @@ Datenschutzorientierte macOS-Apps und Offline-first-Webprojekte.
 [![AppAtlas stars](https://img.shields.io/github/stars/Schrotty74/AppAtlas?label=AppAtlas%20stars&style=flat)](https://github.com/Schrotty74/AppAtlas/stargazers)
 [![FileAtlas stars](https://img.shields.io/github/stars/Schrotty74/FileAtlas?label=FileAtlas%20stars&style=flat)](https://github.com/Schrotty74/FileAtlas/stargazers)
 [![CodexVault stars](https://img.shields.io/github/stars/Schrotty74/CodexVault?label=CodexVault%20stars&style=flat)](https://github.com/Schrotty74/CodexVault/stargazers)
-[![BudgetApp stars](https://img.shields.io/github/stars/Schrotty74/BudgetApp?label=BudgetApp%20stars&style=flat)](https://github.com/Schrotty74/BudgetApp/stargazers)
 [![CalcBoy stars](https://img.shields.io/github/stars/Schrotty74/CalcBoy?label=CalcBoy%20stars&style=flat)](https://github.com/Schrotty74/CalcBoy/stargazers)
 [![Skybreak stars](https://img.shields.io/github/stars/Schrotty74/Skybreak-Protocol?label=Skybreak%20stars&style=flat)](https://github.com/Schrotty74/Skybreak-Protocol/stargazers)
 [![UroBilanz stars](https://img.shields.io/github/stars/Schrotty74/UroBilanz?label=UroBilanz%20stars&style=flat)](https://github.com/Schrotty74/UroBilanz/stargazers)
@@ -37,11 +36,6 @@ Lokale Dateien und Backups unter macOS indizieren, vergleichen und verwalten.
 
 Geprüfte lokale Backups von Codex-Daten und ausgewählten Projektordnern unter macOS erstellen.  
 [GitHub](https://github.com/Schrotty74/CodexVault) · [Details](https://schrotty74.github.io/Portfolio/projects/codexvault.html)
-
-### BudgetApp
-
-Private, offlinefähige Haushaltsbudget-PWA.  
-[App öffnen](https://schrotty74.github.io/BudgetApp/) · [GitHub](https://github.com/Schrotty74/BudgetApp) · [Details](https://schrotty74.github.io/Portfolio/projects/budgetapp.html)
 
 ### CALC BOY
 
