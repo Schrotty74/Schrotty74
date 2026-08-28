@@ -46,7 +46,7 @@ Retro-styled offline calculator PWA.
 ### BudgetAtlas
 
 Local, responsive budget PWA with offline support, Excel/PDF/PNG exports and browser-only data storage.  
-[Open app](https://schrotty74.github.io/BudgetAtlas/) · [GitHub](https://github.com/Schrotty74/BudgetAtlas)
+[Open app](https://schrotty74.github.io/BudgetAtlas/) · [GitHub](https://github.com/Schrotty74/BudgetAtlas) · [Details](https://schrotty74.github.io/Portfolio/projects/budgetatlas.html)
 
 ### Skybreak Protocol
 

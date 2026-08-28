@@ -46,7 +46,7 @@ Offline-Taschenrechner-PWA im Retro-Stil.
 ### BudgetAtlas
 
 Lokale, responsive Budget-PWA mit Offline-Unterstützung, Excel-/PDF-/PNG-Exporten und ausschließlich lokaler Datenspeicherung im Browser.  
-[App öffnen](https://schrotty74.github.io/BudgetAtlas/) · [GitHub](https://github.com/Schrotty74/BudgetAtlas)
+[App öffnen](https://schrotty74.github.io/BudgetAtlas/) · [GitHub](https://github.com/Schrotty74/BudgetAtlas) · [Details](https://schrotty74.github.io/Portfolio/projects/budgetatlas.de.html)
 
 ### Skybreak Protocol
 
