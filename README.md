@@ -13,6 +13,7 @@ Privacy-focused macOS apps and offline-first web projects.
 [![FileAtlas stars](https://img.shields.io/github/stars/Schrotty74/FileAtlas?label=FileAtlas%20stars&style=flat)](https://github.com/Schrotty74/FileAtlas/stargazers)
 [![CodexVault stars](https://img.shields.io/github/stars/Schrotty74/CodexVault?label=CodexVault%20stars&style=flat)](https://github.com/Schrotty74/CodexVault/stargazers)
 [![CalcBoy stars](https://img.shields.io/github/stars/Schrotty74/CalcBoy?label=CalcBoy%20stars&style=flat)](https://github.com/Schrotty74/CalcBoy/stargazers)
+[![BudgetAtlas stars](https://img.shields.io/github/stars/Schrotty74/BudgetAtlas?label=BudgetAtlas%20stars&style=flat)](https://github.com/Schrotty74/BudgetAtlas/stargazers)
 [![Skybreak stars](https://img.shields.io/github/stars/Schrotty74/Skybreak-Protocol?label=Skybreak%20stars&style=flat)](https://github.com/Schrotty74/Skybreak-Protocol/stargazers)
 [![UroBilanz stars](https://img.shields.io/github/stars/Schrotty74/UroBilanz?label=UroBilanz%20stars&style=flat)](https://github.com/Schrotty74/UroBilanz/stargazers)
 [![HealthAtlas stars](https://img.shields.io/github/stars/Schrotty74/HealthAtlas?label=HealthAtlas%20stars&style=flat)](https://github.com/Schrotty74/HealthAtlas/stargazers)
@@ -41,6 +42,11 @@ Create verified local backups of Codex data and selected project folders on macO
 
 Retro-styled offline calculator PWA.  
 [Open app](https://schrotty74.github.io/CalcBoy/) · [GitHub](https://github.com/Schrotty74/CalcBoy) · [Details](https://schrotty74.github.io/Portfolio/projects/calcboy.html)
+
+### BudgetAtlas
+
+Local, responsive budget PWA with offline support, Excel/PDF/PNG exports and browser-only data storage.  
+[Open app](https://schrotty74.github.io/BudgetAtlas/) · [GitHub](https://github.com/Schrotty74/BudgetAtlas)
 
 ### Skybreak Protocol
 
