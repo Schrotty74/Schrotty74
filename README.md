@@ -26,57 +26,57 @@ Privacy-focused macOS apps and offline-first web projects.
 ### AppAtlas
 
 Organise local app collections, metadata and licence information.  
-[GitHub](https://github.com/Schrotty74/AppAtlas) · [Details](https://schrotty74.github.io/Portfolio/projects/appatlas.html)
+[GitHub](https://github.com/Schrotty74/AppAtlas) · [Details](https://schrotty74.github.io/Portfolio/apps/appatlas/)
 
 ### FileAtlas
 
 Index, compare and manage local files and backups on macOS.  
-[GitHub](https://github.com/Schrotty74/FileAtlas) · [Details](https://schrotty74.github.io/Portfolio/projects/fileatlas.html)
+[GitHub](https://github.com/Schrotty74/FileAtlas) · [Details](https://schrotty74.github.io/Portfolio/apps/fileatlas/)
 
 ### CodexVault
 
 Create verified local backups of Codex data and selected project folders on macOS.  
-[GitHub](https://github.com/Schrotty74/CodexVault) · [Details](https://schrotty74.github.io/Portfolio/projects/codexvault.html)
+[GitHub](https://github.com/Schrotty74/CodexVault) · [Details](https://schrotty74.github.io/Portfolio/apps/codexvault/)
 
 ### CALC BOY
 
 Retro-styled offline calculator PWA.  
-[Open app](https://schrotty74.github.io/CalcBoy/) · [GitHub](https://github.com/Schrotty74/CalcBoy) · [Details](https://schrotty74.github.io/Portfolio/projects/calcboy.html)
+[Open app](https://schrotty74.github.io/CalcBoy/) · [GitHub](https://github.com/Schrotty74/CalcBoy) · [Details](https://schrotty74.github.io/Portfolio/apps/calcboy/)
 
 ### BudgetAtlas
 
 Local, responsive budget PWA with offline support, Excel/PDF/PNG exports and browser-only data storage.  
-[Open app](https://schrotty74.github.io/BudgetAtlas/) · [GitHub](https://github.com/Schrotty74/BudgetAtlas) · [Details](https://schrotty74.github.io/Portfolio/projects/budgetatlas.html)
+[Open app](https://schrotty74.github.io/BudgetAtlas/) · [GitHub](https://github.com/Schrotty74/BudgetAtlas) · [Details](https://schrotty74.github.io/Portfolio/apps/budgetatlas/)
 
 ### Skybreak Protocol
 
 Vertical cyberpunk arcade game with fourteen levels, an upgradeable robot ice pick, adaptive graphics up to 4K, and an original techno soundtrack.<br>
-[Play game](https://schrotty74.github.io/Skybreak-Protocol/) · [GitHub](https://github.com/Schrotty74/Skybreak-Protocol) · [Details](https://schrotty74.github.io/Portfolio/projects/skybreak-protocol.html)
+[Play game](https://schrotty74.github.io/Skybreak-Protocol/) · [GitHub](https://github.com/Schrotty74/Skybreak-Protocol) · [Details](https://schrotty74.github.io/Portfolio/apps/skybreak-protocol/)
 
 ### UroBilanz
 
 Local logging and analysis for urine and fluid records.  
-[GitHub](https://github.com/Schrotty74/UroBilanz) · [Details](https://schrotty74.github.io/Portfolio/projects/urobilanz.html)
+[GitHub](https://github.com/Schrotty74/UroBilanz) · [Details](https://schrotty74.github.io/Portfolio/apps/urobilanz/)
 
 ### HealthAtlas
 
 Local Apple Health export insights for macOS.  
-[GitHub](https://github.com/Schrotty74/HealthAtlas) · [Details](https://schrotty74.github.io/Portfolio/projects/healthatlas.html)
+[GitHub](https://github.com/Schrotty74/HealthAtlas) · [Details](https://schrotty74.github.io/Portfolio/apps/healthatlas/)
 
 ### ThermalAtlas
 
 Local, read-only Apple Silicon temperature monitoring for CPU, GPU, internal SSD and detected external SSDs from the macOS menu bar.<br>
-[GitHub](https://github.com/Schrotty74/ThermalAtlas) · [Releases](https://github.com/Schrotty74/ThermalAtlas/releases) · [Details](https://schrotty74.github.io/Portfolio/projects/thermalatlas.html)
+[GitHub](https://github.com/Schrotty74/ThermalAtlas) · [Releases](https://github.com/Schrotty74/ThermalAtlas/releases) · [Details](https://schrotty74.github.io/Portfolio/apps/thermalatlas/)
 
 ### ChatGPT Pets
 
 A collection of original, importable animated pets for ChatGPT and Codex.  
-[GitHub](https://github.com/Schrotty74/chatgpt-pets) · [Details](https://schrotty74.github.io/Portfolio/projects/chatgpt-pets.html)
+[GitHub](https://github.com/Schrotty74/chatgpt-pets) · [Details](https://schrotty74.github.io/Portfolio/apps/chatgpt-pets/)
 
 ### Shortcuts
 
 Public Apple Shortcuts with preview images, privacy reports, signed downloads, checksums, and bilingual documentation.
-[Shortcut collection](https://github.com/Schrotty74/Shortcuts) · [Details](https://schrotty74.github.io/Portfolio/projects/shortcuts.html)
+[Shortcut collection](https://github.com/Schrotty74/Shortcuts) · [Details](https://schrotty74.github.io/Portfolio/apps/shortcuts/)
 
 ## Repo activity
 
