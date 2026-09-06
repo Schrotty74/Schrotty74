@@ -60,8 +60,8 @@ Lokale Protokollierung und Auswertung von Urin- und Flüssigkeitsdaten.
 
 ### HealthAtlas
 
-Lokale Auswertung von Apple-Health-Exporten unter macOS.  
-[GitHub](https://github.com/Schrotty74/HealthAtlas) · [Details](https://schrotty74.github.io/Portfolio/de/apps/healthatlas/)
+Datenschutzorientierte lokale Auswertung von Apple-Health-Exporten unter macOS. Final 1.0.0.  
+[GitHub](https://github.com/Schrotty74/HealthAtlas) · [Release 1.0.0](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.0.0) · [Details](https://schrotty74.github.io/Portfolio/de/apps/healthatlas/)
 
 ### ThermalAtlas
 
