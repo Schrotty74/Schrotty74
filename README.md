@@ -60,8 +60,8 @@ Local logging and analysis for urine and fluid records.
 
 ### HealthAtlas
 
-Local Apple Health export insights for macOS.  
-[GitHub](https://github.com/Schrotty74/HealthAtlas) · [Details](https://schrotty74.github.io/Portfolio/apps/healthatlas/)
+Privacy-first local Apple Health export analysis for macOS. Final 1.0.0.  
+[GitHub](https://github.com/Schrotty74/HealthAtlas) · [Release 1.0.0](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.0.0) · [Details](https://schrotty74.github.io/Portfolio/apps/healthatlas/)
 
 ### ThermalAtlas
 
