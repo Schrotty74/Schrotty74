@@ -83,7 +83,7 @@ Local logging and analysis for urine and fluid records.
 
 Privacy-first local Apple Health export analysis for macOS.  
 <!-- release-status:HealthAtlas:start -->
-**Status:** Beta [v1.5.4-beta](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.5.4-beta) · Final [v1.0.1](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.0.1)
+**Status:** Beta [v1.6.0-beta](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.6.0-beta) · Final [v1.0.1](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.0.1)
 <!-- release-status:HealthAtlas:end -->
 [GitHub](https://github.com/Schrotty74/HealthAtlas) · [Details](https://schrotty74.github.io/Portfolio/apps/healthatlas/)
 
