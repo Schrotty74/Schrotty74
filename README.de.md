@@ -83,7 +83,7 @@ Lokale Protokollierung und Auswertung von Urin- und Flüssigkeitsdaten.
 
 Datenschutzorientierte lokale Auswertung von Apple-Health-Exporten unter macOS.  
 <!-- release-status:HealthAtlas:start -->
-**Status:** Beta [v1.6.0-beta](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.6.0-beta) · Final [v1.0.1](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.0.1)
+**Status:** Beta [v1.6.0-beta](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.6.0-beta) · Final [v2.0.0](https://github.com/Schrotty74/HealthAtlas/releases/tag/v2.0.0)
 <!-- release-status:HealthAtlas:end -->
 [GitHub](https://github.com/Schrotty74/HealthAtlas) · [Details](https://schrotty74.github.io/Portfolio/de/apps/healthatlas/)
 
