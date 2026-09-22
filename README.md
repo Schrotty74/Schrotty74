@@ -29,7 +29,7 @@ Organise local app collections, metadata and licence information.
 <!-- release-status:AppAtlas:start -->
 **Status:** Beta [v1.2.2-beta.1](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.2-beta.1) · Final [v1.2.3](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.3)
 <!-- release-status:AppAtlas:end -->
-[GitHub](https://github.com/Schrotty74/AppAtlas) · [Details](https://schrotty74.github.io/Portfolio/apps/appatlas/)
+[GitHub](https://github.com/Schrotty74/AppAtlas)
 
 ### FileAtlas
 
@@ -37,7 +37,7 @@ Index, compare and manage local files and backups on macOS.
 <!-- release-status:FileAtlas:start -->
 **Status:** Beta [v1.11.0-beta.3](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0-beta.3) · Final [v1.11.0](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0)
 <!-- release-status:FileAtlas:end -->
-[GitHub](https://github.com/Schrotty74/FileAtlas) · [Details](https://schrotty74.github.io/Portfolio/apps/fileatlas/)
+[GitHub](https://github.com/Schrotty74/FileAtlas)
 
 ### CodexVault
 
@@ -45,7 +45,7 @@ Create verified local backups of Codex data and selected project folders on macO
 <!-- release-status:CodexVault:start -->
 **Status:** Beta [v1.0.0-beta.4](https://github.com/Schrotty74/CodexVault/releases/tag/v1.0.0-beta.4) · Final [v1.0.0](https://github.com/Schrotty74/CodexVault/releases/tag/v1.0.0)
 <!-- release-status:CodexVault:end -->
-[GitHub](https://github.com/Schrotty74/CodexVault) · [Details](https://schrotty74.github.io/Portfolio/apps/codexvault/)
+[GitHub](https://github.com/Schrotty74/CodexVault)
 
 ### CALC BOY
 
@@ -53,7 +53,7 @@ Retro-styled offline calculator PWA.
 <!-- release-status:CalcBoy:start -->
 **Status:** Final [v3.1.0](https://github.com/Schrotty74/CalcBoy/releases/tag/v3.1.0)
 <!-- release-status:CalcBoy:end -->
-[Open app](https://schrotty74.github.io/CalcBoy/) · [GitHub](https://github.com/Schrotty74/CalcBoy) · [Details](https://schrotty74.github.io/Portfolio/apps/calcboy/)
+[Open app](https://schrotty74.github.io/CalcBoy/) · [GitHub](https://github.com/Schrotty74/CalcBoy)
 
 ### BudgetAtlas
 
@@ -61,7 +61,7 @@ Local, responsive budget PWA with offline support, Excel/PDF/PNG exports and bro
 <!-- release-status:BudgetAtlas:start -->
 **Status:** Development
 <!-- release-status:BudgetAtlas:end -->
-[Open app](https://schrotty74.github.io/BudgetAtlas/) · [GitHub](https://github.com/Schrotty74/BudgetAtlas) · [Details](https://schrotty74.github.io/Portfolio/apps/budgetatlas/)
+[Open app](https://schrotty74.github.io/BudgetAtlas/) · [GitHub](https://github.com/Schrotty74/BudgetAtlas)
 
 ### Skybreak Protocol
 
@@ -69,7 +69,7 @@ Vertical cyberpunk arcade game with fourteen levels, an upgradeable robot ice pi
 <!-- release-status:Skybreak-Protocol:start -->
 **Status:** Beta [v1.0.1-beta.8](https://github.com/Schrotty74/Skybreak-Protocol/releases/tag/v1.0.1-beta.8) · Final [v1.0.1](https://github.com/Schrotty74/Skybreak-Protocol/releases/tag/v1.0.1)
 <!-- release-status:Skybreak-Protocol:end -->
-[Play game](https://schrotty74.github.io/Skybreak-Protocol/) · [GitHub](https://github.com/Schrotty74/Skybreak-Protocol) · [Details](https://schrotty74.github.io/Portfolio/apps/skybreak-protocol/)
+[Play game](https://schrotty74.github.io/Skybreak-Protocol/) · [GitHub](https://github.com/Schrotty74/Skybreak-Protocol)
 
 ### UroBilanz
 
@@ -77,7 +77,7 @@ Local logging and analysis for urine and fluid records.
 <!-- release-status:UroBilanz:start -->
 **Status:** Beta [v1.7.4-beta.2](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4-beta.2) · Final [v1.7.4](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4)
 <!-- release-status:UroBilanz:end -->
-[GitHub](https://github.com/Schrotty74/UroBilanz) · [Details](https://schrotty74.github.io/Portfolio/apps/urobilanz/)
+[GitHub](https://github.com/Schrotty74/UroBilanz)
 
 ### HealthAtlas
 
@@ -85,7 +85,7 @@ Privacy-first local Apple Health export analysis for macOS.
 <!-- release-status:HealthAtlas:start -->
 **Status:** Beta [v1.6.0-beta](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.6.0-beta) · Final [v2.0.0](https://github.com/Schrotty74/HealthAtlas/releases/tag/v2.0.0)
 <!-- release-status:HealthAtlas:end -->
-[GitHub](https://github.com/Schrotty74/HealthAtlas) · [Details](https://schrotty74.github.io/Portfolio/apps/healthatlas/)
+[GitHub](https://github.com/Schrotty74/HealthAtlas)
 
 ### ThermalAtlas
 
@@ -93,7 +93,7 @@ Local, read-only Apple Silicon temperature monitoring for CPU, GPU, internal SSD
 <!-- release-status:ThermalAtlas:start -->
 **Status:** Beta [v0.5.0](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v0.5.0) · Final [v1.1.0](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.1.0)
 <!-- release-status:ThermalAtlas:end -->
-[GitHub](https://github.com/Schrotty74/ThermalAtlas) · [Releases](https://github.com/Schrotty74/ThermalAtlas/releases) · [Details](https://schrotty74.github.io/Portfolio/apps/thermalatlas/)
+[GitHub](https://github.com/Schrotty74/ThermalAtlas) · [Releases](https://github.com/Schrotty74/ThermalAtlas/releases)
 
 ### ChatGPT Pets
 
@@ -101,7 +101,7 @@ A collection of original, importable animated pets for ChatGPT and Codex.
 <!-- release-status:chatgpt-pets:start -->
 **Status:** Development
 <!-- release-status:chatgpt-pets:end -->
-[GitHub](https://github.com/Schrotty74/chatgpt-pets) · [Details](https://schrotty74.github.io/Portfolio/apps/chatgpt-pets/)
+[GitHub](https://github.com/Schrotty74/chatgpt-pets)
 
 ### Shortcuts
 
@@ -109,7 +109,7 @@ Public Apple Shortcuts with preview images, privacy reports, signed downloads, c
 <!-- release-status:Shortcuts:start -->
 **Status:** Final [v1.2.3](https://github.com/Schrotty74/Shortcuts/releases/tag/v1.2.3)
 <!-- release-status:Shortcuts:end -->
-[Shortcut collection](https://github.com/Schrotty74/Shortcuts) · [Details](https://schrotty74.github.io/Portfolio/apps/shortcuts/)
+[Shortcut collection](https://github.com/Schrotty74/Shortcuts)
 
 ## Repo activity
 
