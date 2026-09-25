@@ -91,7 +91,7 @@ Datenschutzorientierte lokale Auswertung von Apple-Health-Exporten unter macOS.
 
 Lokale, rein lesende Apple-Silicon-Temperaturüberwachung für CPU, GPU, interne SSD und erkannte externe SSDs über die macOS-Menüleiste.<br>
 <!-- release-status:ThermalAtlas:start -->
-**Status:** Beta [v0.5.0](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v0.5.0) · Final [v1.1.0](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.1.0)
+**Status:** Beta [v1.2.0-beta.1](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.2.0-beta.1) · Final [v1.1.0](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.1.0)
 <!-- release-status:ThermalAtlas:end -->
 [GitHub](https://github.com/Schrotty74/ThermalAtlas) · [Releases](https://github.com/Schrotty74/ThermalAtlas/releases)
 
