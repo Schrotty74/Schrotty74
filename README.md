@@ -28,7 +28,7 @@ Privacy-focused macOS apps and offline-first web projects.
 
 Enigma Player for Mac.  \
 <!-- release-status:e2Atlas:start -->
-**Status:** Development
+**Status:** Beta [v0.1.0-beta.1](https://github.com/Schrotty74/e2Atlas/releases/tag/v0.1.0-beta.1) · [Download DMG](https://github.com/Schrotty74/e2Atlas/releases/download/v0.1.0-beta.1/e2Atlas-Beta-0.1.0-beta.1-macos-arm64.dmg) · [Download ZIP](https://github.com/Schrotty74/e2Atlas/releases/download/v0.1.0-beta.1/e2Atlas-Beta-0.1.0-beta.1-macos-arm64.zip) · [Checksums](https://github.com/Schrotty74/e2Atlas/releases/download/v0.1.0-beta.1/SHA256SUMS)
 <!-- release-status:e2Atlas:end -->
 [GitHub](https://github.com/Schrotty74/e2Atlas)
 
@@ -36,7 +36,7 @@ Enigma Player for Mac.  \
 
 Organise local app collections, metadata and licence information.  \
 <!-- release-status:AppAtlas:start -->
-**Status:** Beta [v1.2.2-beta.1](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.2-beta.1) · Final [v1.2.3](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.3)
+**Status:** Beta [v1.2.2-beta.1](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.2-beta.1) · Final [v1.2.3](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.3) · [Download DMG](https://github.com/Schrotty74/AppAtlas/releases/download/v1.2.3/AppAtlas-1.2.3-macos.dmg) · [Download ZIP](https://github.com/Schrotty74/AppAtlas/releases/download/v1.2.3/AppAtlas-1.2.3-macos.zip)
 <!-- release-status:AppAtlas:end -->
 [GitHub](https://github.com/Schrotty74/AppAtlas)
 
@@ -44,7 +44,7 @@ Organise local app collections, metadata and licence information.  \
 
 Index, compare and manage local files and backups on macOS.  \
 <!-- release-status:FileAtlas:start -->
-**Status:** Beta [v1.11.0-beta.3](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0-beta.3) · Final [v1.11.0](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0)
+**Status:** Beta [v1.11.0-beta.3](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0-beta.3) · Final [v1.11.0](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0) · [Download DMG](https://github.com/Schrotty74/FileAtlas/releases/download/v1.11.0/FileAtlas.dmg) · [Download ZIP](https://github.com/Schrotty74/FileAtlas/releases/download/v1.11.0/FileAtlas.zip)
 <!-- release-status:FileAtlas:end -->
 [GitHub](https://github.com/Schrotty74/FileAtlas)
 
@@ -52,7 +52,7 @@ Index, compare and manage local files and backups on macOS.  \
 
 Create verified local backups of Codex data and selected project folders on macOS.  \
 <!-- release-status:CodexVault:start -->
-**Status:** Beta [v1.0.0-beta.4](https://github.com/Schrotty74/CodexVault/releases/tag/v1.0.0-beta.4) · Final [v1.0.0](https://github.com/Schrotty74/CodexVault/releases/tag/v1.0.0)
+**Status:** Beta [v1.0.0-beta.4](https://github.com/Schrotty74/CodexVault/releases/tag/v1.0.0-beta.4) · Final [v1.0.0](https://github.com/Schrotty74/CodexVault/releases/tag/v1.0.0) · [Download DMG](https://github.com/Schrotty74/CodexVault/releases/download/v1.0.0/CodexVault-1.0.dmg) · [Download ZIP](https://github.com/Schrotty74/CodexVault/releases/download/v1.0.0/CodexVault-1.0.zip)
 <!-- release-status:CodexVault:end -->
 [GitHub](https://github.com/Schrotty74/CodexVault)
 
@@ -60,7 +60,7 @@ Create verified local backups of Codex data and selected project folders on macO
 
 Retro-styled offline calculator PWA.  \
 <!-- release-status:CalcBoy:start -->
-**Status:** Final [v3.1.0](https://github.com/Schrotty74/CalcBoy/releases/tag/v3.1.0)
+**Status:** Final [v3.1.0](https://github.com/Schrotty74/CalcBoy/releases/tag/v3.1.0) · [Download ZIP](https://github.com/Schrotty74/CalcBoy/releases/download/v3.1.0/CALC-BOY-Offline-3.1.0.zip)
 <!-- release-status:CalcBoy:end -->
 [Open app](https://schrotty74.github.io/CalcBoy/) · [GitHub](https://github.com/Schrotty74/CalcBoy)
 
@@ -76,7 +76,7 @@ Local, responsive budget PWA with offline support, Excel/PDF/PNG exports and bro
 
 Vertical cyberpunk arcade game with fourteen levels, an upgradeable robot ice pick, adaptive graphics up to 4K, and an original techno soundtrack.<br>
 <!-- release-status:Skybreak-Protocol:start -->
-**Status:** Beta [v1.0.1-beta.8](https://github.com/Schrotty74/Skybreak-Protocol/releases/tag/v1.0.1-beta.8) · Final [v1.0.1](https://github.com/Schrotty74/Skybreak-Protocol/releases/tag/v1.0.1)
+**Status:** Beta [v1.0.1-beta.8](https://github.com/Schrotty74/Skybreak-Protocol/releases/tag/v1.0.1-beta.8) · Final [v1.0.1](https://github.com/Schrotty74/Skybreak-Protocol/releases/tag/v1.0.1) · [Download ZIP](https://github.com/Schrotty74/Skybreak-Protocol/releases/download/v1.0.1/Skybreak-Protocol-1.0.1-offline.zip)
 <!-- release-status:Skybreak-Protocol:end -->
 [Play game](https://schrotty74.github.io/Skybreak-Protocol/) · [GitHub](https://github.com/Schrotty74/Skybreak-Protocol)
 
@@ -84,7 +84,7 @@ Vertical cyberpunk arcade game with fourteen levels, an upgradeable robot ice pi
 
 Local logging and analysis for urine and fluid records.  \
 <!-- release-status:UroBilanz:start -->
-**Status:** Beta [v1.7.4-beta.2](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4-beta.2) · Final [v1.7.4](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4)
+**Status:** Beta [v1.7.4-beta.2](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4-beta.2) · Final [v1.7.4](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4) · [Download DMG](https://github.com/Schrotty74/UroBilanz/releases/download/v1.7.4/UroBilanz-macOS-Swift-v1.7.4.dmg) · [Download ZIP](https://github.com/Schrotty74/UroBilanz/releases/download/v1.7.4/UroBilanz-macOS-Swift-v1.7.4.zip)
 <!-- release-status:UroBilanz:end -->
 [GitHub](https://github.com/Schrotty74/UroBilanz)
 
@@ -92,7 +92,7 @@ Local logging and analysis for urine and fluid records.  \
 
 Privacy-first local Apple Health export analysis for macOS.  \
 <!-- release-status:HealthAtlas:start -->
-**Status:** Beta [v1.6.0-beta](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.6.0-beta) · Final [v2.0.0](https://github.com/Schrotty74/HealthAtlas/releases/tag/v2.0.0)
+**Status:** Beta [v1.6.0-beta](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.6.0-beta) · Final [v2.0.0](https://github.com/Schrotty74/HealthAtlas/releases/tag/v2.0.0) · [Download DMG](https://github.com/Schrotty74/HealthAtlas/releases/download/v2.0.0/HealthAtlas-2.0.0-macos.dmg) · [Download ZIP](https://github.com/Schrotty74/HealthAtlas/releases/download/v2.0.0/HealthAtlas-2.0.0-macos.zip)
 <!-- release-status:HealthAtlas:end -->
 [GitHub](https://github.com/Schrotty74/HealthAtlas)
 
@@ -100,7 +100,7 @@ Privacy-first local Apple Health export analysis for macOS.  \
 
 Local, read-only Apple Silicon temperature monitoring for CPU, GPU, internal SSD and detected external SSDs from the macOS menu bar.<br>
 <!-- release-status:ThermalAtlas:start -->
-**Status:** Beta [v1.2.0-beta.7](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.2.0-beta.7) · Final [v1.2.0](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.2.0)
+**Status:** Beta [v1.2.0-beta.7](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.2.0-beta.7) · Final [v1.2.0](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.2.0) · [Download DMG](https://github.com/Schrotty74/ThermalAtlas/releases/download/v1.2.0/ThermalAtlas-1.2.0-macos.dmg) · [Download ZIP](https://github.com/Schrotty74/ThermalAtlas/releases/download/v1.2.0/ThermalAtlas-1.2.0-macos.zip)
 <!-- release-status:ThermalAtlas:end -->
 [GitHub](https://github.com/Schrotty74/ThermalAtlas) · [Releases](https://github.com/Schrotty74/ThermalAtlas/releases)
 
@@ -116,7 +116,7 @@ A collection of original, importable animated pets for ChatGPT and Codex.  \
 
 Public Apple Shortcuts with preview images, privacy reports, signed downloads, checksums, and bilingual documentation.
 <!-- release-status:Shortcuts:start -->
-**Status:** Final [v1.2.3](https://github.com/Schrotty74/Shortcuts/releases/tag/v1.2.3)
+**Status:** Final [v1.2.3](https://github.com/Schrotty74/Shortcuts/releases/tag/v1.2.3) · [Download ZIP](https://github.com/Schrotty74/Shortcuts/releases/download/v1.2.3/weather-for-city-1.2.3.zip)
 <!-- release-status:Shortcuts:end -->
 [Shortcut collection](https://github.com/Schrotty74/Shortcuts)
 
