@@ -85,7 +85,6 @@ Vertikales Cyberpunk-Arcade-Spiel mit vierzehn Leveln, aufrüstbarem Roboter-Eis
 Lokale Protokollierung und Auswertung von Urin- und Flüssigkeitsdaten.  \
 <!-- release-status:UroBilanz:start -->
 **Status:** Beta [v1.7.4-beta.2](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4-beta.2) · Final [v1.7.4](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4)
-
 <!-- release-status:UroBilanz:end -->
 [GitHub](https://github.com/Schrotty74/UroBilanz)
 
