@@ -30,7 +30,7 @@ Enigma Player for Mac.  \
 <!-- release-status:e2Atlas:start -->
 **Status:** Beta [v0.1.0-beta.1](https://github.com/Schrotty74/e2Atlas/releases/tag/v0.1.0-beta.1) · [Download DMG](https://github.com/Schrotty74/e2Atlas/releases/download/v0.1.0-beta.1/e2Atlas-Beta-0.1.0-beta.1-macos-arm64.dmg) · [Download ZIP](https://github.com/Schrotty74/e2Atlas/releases/download/v0.1.0-beta.1/e2Atlas-Beta-0.1.0-beta.1-macos-arm64.zip) · [Checksums](https://github.com/Schrotty74/e2Atlas/releases/download/v0.1.0-beta.1/SHA256SUMS)
 <!-- release-status:e2Atlas:end -->
-[GitHub](https://github.com/Schrotty74/e2Atlas)
+[GitHub](https://github.com/Schrotty74/e2Atlas) · [Portfolio](https://schrotty74.github.io/Portfolio/apps/e2atlas)
 
 ### AppAtlas
 
