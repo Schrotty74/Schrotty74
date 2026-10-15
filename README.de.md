@@ -9,6 +9,7 @@ Datenschutzorientierte macOS-Apps und Offline-first-Webprojekte.
 ## GitHub-Statistiken
 
 [![Followers](https://img.shields.io/github/followers/Schrotty74?label=Followers&style=flat)](https://github.com/Schrotty74?tab=followers)
+[![e2Atlas stars](https://img.shields.io/github/stars/Schrotty74/e2Atlas?label=e2Atlas%20stars&style=flat)](https://github.com/Schrotty74/e2Atlas/stargazers)
 [![AppAtlas stars](https://img.shields.io/github/stars/Schrotty74/AppAtlas?label=AppAtlas%20stars&style=flat)](https://github.com/Schrotty74/AppAtlas/stargazers)
 [![FileAtlas stars](https://img.shields.io/github/stars/Schrotty74/FileAtlas?label=FileAtlas%20stars&style=flat)](https://github.com/Schrotty74/FileAtlas/stargazers)
 [![CodexVault stars](https://img.shields.io/github/stars/Schrotty74/CodexVault?label=CodexVault%20stars&style=flat)](https://github.com/Schrotty74/CodexVault/stargazers)
@@ -23,9 +24,17 @@ Datenschutzorientierte macOS-Apps und Offline-first-Webprojekte.
 
 ## Ausgewählte Projekte
 
+### e2Atlas
+
+Enigma-Player für Mac.  \
+<!-- release-status:e2Atlas:start -->
+**Status:** Entwicklung
+<!-- release-status:e2Atlas:end -->
+[GitHub](https://github.com/Schrotty74/e2Atlas)
+
 ### AppAtlas
 
-Lokale App-Sammlungen, Metadaten und Lizenzinformationen organisieren.  
+Lokale App-Sammlungen, Metadaten und Lizenzinformationen organisieren.  \
 <!-- release-status:AppAtlas:start -->
 **Status:** Beta [v1.2.2-beta.1](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.2-beta.1) · Final [v1.2.3](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.3)
 <!-- release-status:AppAtlas:end -->
@@ -33,7 +42,7 @@ Lokale App-Sammlungen, Metadaten und Lizenzinformationen organisieren.
 
 ### FileAtlas
 
-Lokale Dateien und Backups unter macOS indizieren, vergleichen und verwalten.  
+Lokale Dateien und Backups unter macOS indizieren, vergleichen und verwalten.  \
 <!-- release-status:FileAtlas:start -->
 **Status:** Beta [v1.11.0-beta.3](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0-beta.3) · Final [v1.11.0](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0)
 <!-- release-status:FileAtlas:end -->
@@ -41,7 +50,7 @@ Lokale Dateien und Backups unter macOS indizieren, vergleichen und verwalten.
 
 ### CodexVault
 
-Geprüfte lokale Backups von Codex-Daten und ausgewählten Projektordnern unter macOS erstellen.  
+Geprüfte lokale Backups von Codex-Daten und ausgewählten Projektordnern unter macOS erstellen.  \
 <!-- release-status:CodexVault:start -->
 **Status:** Beta [v1.0.0-beta.4](https://github.com/Schrotty74/CodexVault/releases/tag/v1.0.0-beta.4) · Final [v1.0.0](https://github.com/Schrotty74/CodexVault/releases/tag/v1.0.0)
 <!-- release-status:CodexVault:end -->
@@ -49,7 +58,7 @@ Geprüfte lokale Backups von Codex-Daten und ausgewählten Projektordnern unter 
 
 ### CALC BOY
 
-Offline-Taschenrechner-PWA im Retro-Stil.  
+Offline-Taschenrechner-PWA im Retro-Stil.  \
 <!-- release-status:CalcBoy:start -->
 **Status:** Final [v3.1.0](https://github.com/Schrotty74/CalcBoy/releases/tag/v3.1.0)
 <!-- release-status:CalcBoy:end -->
@@ -57,7 +66,7 @@ Offline-Taschenrechner-PWA im Retro-Stil.
 
 ### BudgetAtlas
 
-Lokale, responsive Budget-PWA mit Offline-Unterstützung, Excel-/PDF-/PNG-Exporten und ausschließlich lokaler Datenspeicherung im Browser.  
+Lokale, responsive Budget-PWA mit Offline-Unterstützung, Excel-/PDF-/PNG-Exporten und ausschließlich lokaler Datenspeicherung im Browser.  \
 <!-- release-status:BudgetAtlas:start -->
 **Status:** Entwicklung
 <!-- release-status:BudgetAtlas:end -->
@@ -73,15 +82,16 @@ Vertikales Cyberpunk-Arcade-Spiel mit vierzehn Leveln, aufrüstbarem Roboter-Eis
 
 ### UroBilanz
 
-Lokale Protokollierung und Auswertung von Urin- und Flüssigkeitsdaten.  
+Lokale Protokollierung und Auswertung von Urin- und Flüssigkeitsdaten.  \
 <!-- release-status:UroBilanz:start -->
 **Status:** Beta [v1.7.4-beta.2](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4-beta.2) · Final [v1.7.4](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4)
+
 <!-- release-status:UroBilanz:end -->
 [GitHub](https://github.com/Schrotty74/UroBilanz)
 
 ### HealthAtlas
 
-Datenschutzorientierte lokale Auswertung von Apple-Health-Exporten unter macOS.  
+Datenschutzorientierte lokale Auswertung von Apple-Health-Exporten unter macOS.  \
 <!-- release-status:HealthAtlas:start -->
 **Status:** Beta [v1.6.0-beta](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.6.0-beta) · Final [v2.0.0](https://github.com/Schrotty74/HealthAtlas/releases/tag/v2.0.0)
 <!-- release-status:HealthAtlas:end -->
@@ -97,7 +107,7 @@ Lokale, rein lesende Apple-Silicon-Temperaturüberwachung für CPU, GPU, interne
 
 ### ChatGPT Pets
 
-Eine Sammlung eigener, importierbarer animierter Pets für ChatGPT und Codex.  
+Eine Sammlung eigener, importierbarer animierter Pets für ChatGPT und Codex.  \
 <!-- release-status:chatgpt-pets:start -->
 **Status:** Entwicklung
 <!-- release-status:chatgpt-pets:end -->
@@ -105,7 +115,7 @@ Eine Sammlung eigener, importierbarer animierter Pets für ChatGPT und Codex.
 
 ### Shortcuts
 
-Öffentliche Apple-Kurzbefehle mit Vorschaubildern, Datenschutzberichten, signierten Downloads, Prüfsummen und zweisprachiger Dokumentation.  
+Öffentliche Apple-Kurzbefehle mit Vorschaubildern, Datenschutzberichten, signierten Downloads, Prüfsummen und zweisprachiger Dokumentation.  \
 <!-- release-status:Shortcuts:start -->
 **Status:** Final [v1.2.3](https://github.com/Schrotty74/Shortcuts/releases/tag/v1.2.3)
 <!-- release-status:Shortcuts:end -->
