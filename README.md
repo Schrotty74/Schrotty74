@@ -28,7 +28,7 @@ Privacy-focused macOS apps and offline-first web projects.
 
 Enigma Player for Mac.  \
 <!-- release-status:e2Atlas:start -->
-**Status:** Beta [v0.4.0-beta](https://github.com/Schrotty74/e2Atlas/releases/tag/v0.4.0-beta) · [Download DMG](https://github.com/Schrotty74/e2Atlas/releases/download/v0.4.0-beta/e2Atlas-Beta-0.4.0-beta-macos-arm64.dmg) · [Download ZIP](https://github.com/Schrotty74/e2Atlas/releases/download/v0.4.0-beta/e2Atlas-Beta-0.4.0-beta-macos-arm64.zip) · [Checksums](https://github.com/Schrotty74/e2Atlas/releases/download/v0.4.0-beta/SHA256SUMS)
+**Status:** Beta [v0.5.0-beta](https://github.com/Schrotty74/e2Atlas/releases/tag/v0.5.0-beta) · [Download DMG](https://github.com/Schrotty74/e2Atlas/releases/download/v0.5.0-beta/e2Atlas-Beta-0.5.0-beta-macos-arm64.dmg) · [Download ZIP](https://github.com/Schrotty74/e2Atlas/releases/download/v0.5.0-beta/e2Atlas-Beta-0.5.0-beta-macos-arm64.zip) · [Checksums](https://github.com/Schrotty74/e2Atlas/releases/download/v0.5.0-beta/SHA256SUMS)
 <!-- release-status:e2Atlas:end -->
 [GitHub](https://github.com/Schrotty74/e2Atlas) · [Portfolio](https://schrotty74.github.io/Portfolio/apps/e2atlas)
 
