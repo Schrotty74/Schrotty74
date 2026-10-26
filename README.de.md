@@ -134,7 +134,7 @@ Native macOS-Menüleisten-App für `nzblnk:`-Links, Kategorieauswahl und die Üb
 Enigma2-Plugins für ARM-Receiver, darunter Box Systeminfo mit Angaben zu Receiver, Image, Speicher, CPU, Netzwerk und Tunern.
 
 <!-- release-status:Enigma-Plugins:start -->
-**Status:** Final [boxsysteminfo-v0.1.9](https://github.com/Schrotty74/Enigma-Plugins/releases/tag/boxsysteminfo-v0.1.9) · [IPK herunterladen](https://github.com/Schrotty74/Enigma-Plugins/releases/download/boxsysteminfo-v0.1.9/enigma2-plugin-extensions-boxsysteminfo_0.1.9_armv7ahf-neon.ipk)
+**Status:** Sammlung
 <!-- release-status:Enigma-Plugins:end -->
 [GitHub](https://github.com/Schrotty74/Enigma-Plugins)
 
@@ -143,7 +143,7 @@ Enigma2-Plugins für ARM-Receiver, darunter Box Systeminfo mit Angaben zu Receiv
 Homebrew-Apps für LG-G-Fernseher mit webOS, darunter ein Systemmonitor für CPU, RAM, Prozesse, Speicher und Firmware.
 
 <!-- release-status:LG-G5-Apps:start -->
-**Status:** Entwicklung
+**Status:** Sammlung
 <!-- release-status:LG-G5-Apps:end -->
 [GitHub](https://github.com/Schrotty74/LG-G5-Apps)
 
