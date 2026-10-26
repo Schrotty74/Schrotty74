@@ -134,9 +134,9 @@ Native macOS menu bar app for `nzblnk:` links, category selection and SABnzbd su
 Enigma2 plugins for ARM receivers, including Box Systeminfo for receiver, image, storage, CPU, network and tuner details.
 
 <!-- release-status:Enigma-Plugins:start -->
-**Status:** Final [boxsysteminfo-v0.1.9](https://github.com/Schrotty74/Enigma-Plugins/releases/tag/boxsysteminfo-v0.1.9) · [Download IPK](https://github.com/Schrotty74/Enigma-Plugins/releases/download/boxsysteminfo-v0.1.9/enigma2-plugin-extensions-boxsysteminfo_0.1.9_armv7ahf-neon.ipk) · [Checksums](https://github.com/Schrotty74/Enigma-Plugins/releases/download/boxsysteminfo-v0.1.9/boxsysteminfo_0.1.9.sha256)
+**Status:** Final [boxsysteminfo-v0.1.9](https://github.com/Schrotty74/Enigma-Plugins/releases/tag/boxsysteminfo-v0.1.9) · [Download IPK](https://github.com/Schrotty74/Enigma-Plugins/releases/download/boxsysteminfo-v0.1.9/enigma2-plugin-extensions-boxsysteminfo_0.1.9_armv7ahf-neon.ipk)
 <!-- release-status:Enigma-Plugins:end -->
-[GitHub](https://github.com/Schrotty74/Enigma-Plugins) · [Releases](https://github.com/Schrotty74/Enigma-Plugins/releases)
+[GitHub](https://github.com/Schrotty74/Enigma-Plugins)
 
 ### LG-G5-Apps
 
@@ -145,7 +145,7 @@ Homebrew apps for LG G-series TVs running webOS, including a system monitor for 
 <!-- release-status:LG-G5-Apps:start -->
 **Status:** Development
 <!-- release-status:LG-G5-Apps:end -->
-[GitHub](https://github.com/Schrotty74/LG-G5-Apps) · [G5 System Monitor 0.8.0 (IPK)](https://github.com/Schrotty74/LG-G5-Apps/raw/refs/heads/main/apps/system-monitor/g5-system-monitor_0.8.0_all.ipk)
+[GitHub](https://github.com/Schrotty74/LG-G5-Apps)
 
 ## Repo activity
 
