@@ -28,7 +28,7 @@ Datenschutzorientierte macOS-Apps und Offline-first-Webprojekte.
 
 Enigma-Player für Mac.  \
 <!-- release-status:e2Atlas:start -->
-**Status:** Beta [v0.5.0-beta](https://github.com/Schrotty74/e2Atlas/releases/tag/v0.5.0-beta) · [DMG herunterladen](https://github.com/Schrotty74/e2Atlas/releases/download/v0.5.0-beta/e2Atlas-Beta-0.5.0-beta-macos-arm64.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/e2Atlas/releases/download/v0.5.0-beta/e2Atlas-Beta-0.5.0-beta-macos-arm64.zip) · [Prüfsummen](https://github.com/Schrotty74/e2Atlas/releases/download/v0.5.0-beta/SHA256SUMS)
+**Status:** Beta [v0.5.0-beta](https://github.com/Schrotty74/e2Atlas/releases/tag/v0.5.0-beta) · Final [v1.0.0-final](https://github.com/Schrotty74/e2Atlas/releases/tag/v1.0.0-final) · [DMG herunterladen](https://github.com/Schrotty74/e2Atlas/releases/download/v1.0.0-final/e2Atlas-1.0.0-final-macos-arm64.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/e2Atlas/releases/download/v1.0.0-final/e2Atlas-1.0.0-final-macos-arm64.zip) · [Prüfsummen](https://github.com/Schrotty74/e2Atlas/releases/download/v1.0.0-final/SHA256SUMS)
 <!-- release-status:e2Atlas:end -->
 [GitHub](https://github.com/Schrotty74/e2Atlas) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/e2atlas)
 
@@ -36,7 +36,7 @@ Enigma-Player für Mac.  \
 
 Lokale App-Sammlungen, Metadaten und Lizenzinformationen organisieren.  \
 <!-- release-status:AppAtlas:start -->
-**Status:** Beta [v1.2.2-beta.1](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.2-beta.1) · Final [v1.2.3](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.3) · [DMG herunterladen](https://github.com/Schrotty74/AppAtlas/releases/download/v1.2.3/AppAtlas-1.2.3-macos.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/AppAtlas/releases/download/v1.2.3/AppAtlas-1.2.3-macos.zip)
+**Status:** Beta [v1.2.2-beta.1](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.2-beta.1) · Final [v1.2.3](https://github.com/Schrotty74/AppAtlas/releases/tag/v1.2.3) · [DMG herunterladen](https://github.com/Schrotty74/AppAtlas/releases/download/v1.2.3/AppAtlas-1.2.3-macos.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/AppAtlas/releases/download/v1.2.3/AppAtlas-1.2.3-macos.zip) · [Prüfsummen](https://github.com/Schrotty74/AppAtlas/releases/download/v1.2.3/AppAtlas-1.2.3-macos.dmg.sha256)
 <!-- release-status:AppAtlas:end -->
 [GitHub](https://github.com/Schrotty74/AppAtlas) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/appatlas/)
 
@@ -84,7 +84,7 @@ Vertikales Cyberpunk-Arcade-Spiel mit vierzehn Leveln, aufrüstbarem Roboter-Eis
 
 Lokale Protokollierung und Auswertung von Urin- und Flüssigkeitsdaten.  \
 <!-- release-status:UroBilanz:start -->
-**Status:** Beta [v1.7.4-beta.2](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4-beta.2) · Final [v1.7.4](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4) · [DMG herunterladen](https://github.com/Schrotty74/UroBilanz/releases/download/v1.7.4/UroBilanz-macOS-Swift-v1.7.4.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/UroBilanz/releases/download/v1.7.4/UroBilanz-macOS-Swift-v1.7.4.zip)
+**Status:** Beta [v1.7.4-beta.2](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4-beta.2) · Final [v1.7.4](https://github.com/Schrotty74/UroBilanz/releases/tag/v1.7.4) · [DMG herunterladen](https://github.com/Schrotty74/UroBilanz/releases/download/v1.7.4/UroBilanz-macOS-Swift-v1.7.4.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/UroBilanz/releases/download/v1.7.4/UroBilanz-macOS-Swift-v1.7.4.zip) · [Prüfsummen](https://github.com/Schrotty74/UroBilanz/releases/download/v1.7.4/UroBilanz-macOS-Swift-v1.7.4.dmg.sha256)
 <!-- release-status:UroBilanz:end -->
 [GitHub](https://github.com/Schrotty74/UroBilanz) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/urobilanz/)
 
@@ -92,7 +92,7 @@ Lokale Protokollierung und Auswertung von Urin- und Flüssigkeitsdaten.  \
 
 Datenschutzorientierte lokale Auswertung von Apple-Health-Exporten unter macOS.  \
 <!-- release-status:HealthAtlas:start -->
-**Status:** Beta [v1.6.0-beta](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.6.0-beta) · Final [v2.0.0](https://github.com/Schrotty74/HealthAtlas/releases/tag/v2.0.0) · [DMG herunterladen](https://github.com/Schrotty74/HealthAtlas/releases/download/v2.0.0/HealthAtlas-2.0.0-macos.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/HealthAtlas/releases/download/v2.0.0/HealthAtlas-2.0.0-macos.zip)
+**Status:** Beta [v1.6.0-beta](https://github.com/Schrotty74/HealthAtlas/releases/tag/v1.6.0-beta) · Final [v2.0.0](https://github.com/Schrotty74/HealthAtlas/releases/tag/v2.0.0) · [DMG herunterladen](https://github.com/Schrotty74/HealthAtlas/releases/download/v2.0.0/HealthAtlas-2.0.0-macos.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/HealthAtlas/releases/download/v2.0.0/HealthAtlas-2.0.0-macos.zip) · [Prüfsummen](https://github.com/Schrotty74/HealthAtlas/releases/download/v2.0.0/HealthAtlas-2.0.0-macos.dmg.sha256)
 <!-- release-status:HealthAtlas:end -->
 [GitHub](https://github.com/Schrotty74/HealthAtlas) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/healthatlas/)
 
@@ -100,7 +100,7 @@ Datenschutzorientierte lokale Auswertung von Apple-Health-Exporten unter macOS. 
 
 Lokale, rein lesende Apple-Silicon-Temperaturüberwachung für CPU, GPU, interne SSD und erkannte externe SSDs über die macOS-Menüleiste.<br>
 <!-- release-status:ThermalAtlas:start -->
-**Status:** Beta [v1.2.0-beta.7](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.2.0-beta.7) · Final [v1.2.0](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.2.0) · [DMG herunterladen](https://github.com/Schrotty74/ThermalAtlas/releases/download/v1.2.0/ThermalAtlas-1.2.0-macos.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/ThermalAtlas/releases/download/v1.2.0/ThermalAtlas-1.2.0-macos.zip)
+**Status:** Beta [v1.2.0-beta.7](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.2.0-beta.7) · Final [v1.2.0](https://github.com/Schrotty74/ThermalAtlas/releases/tag/v1.2.0) · [DMG herunterladen](https://github.com/Schrotty74/ThermalAtlas/releases/download/v1.2.0/ThermalAtlas-1.2.0-macos.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/ThermalAtlas/releases/download/v1.2.0/ThermalAtlas-1.2.0-macos.zip) · [Prüfsummen](https://github.com/Schrotty74/ThermalAtlas/releases/download/v1.2.0/ThermalAtlas-1.2.0-macos.dmg.sha256)
 <!-- release-status:ThermalAtlas:end -->
 [GitHub](https://github.com/Schrotty74/ThermalAtlas) · [Releases](https://github.com/Schrotty74/ThermalAtlas/releases) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/thermalatlas/)
 
@@ -116,7 +116,7 @@ Eine Sammlung eigener, importierbarer animierter Pets für ChatGPT und Codex.  \
 
 Öffentliche Apple-Kurzbefehle mit Vorschaubildern, Datenschutzberichten, signierten Downloads, Prüfsummen und zweisprachiger Dokumentation.  \
 <!-- release-status:Shortcuts:start -->
-**Status:** Final [v1.2.3](https://github.com/Schrotty74/Shortcuts/releases/tag/v1.2.3) · [ZIP herunterladen](https://github.com/Schrotty74/Shortcuts/releases/download/v1.2.3/weather-for-city-1.2.3.zip)
+**Status:** Final [v1.2.3](https://github.com/Schrotty74/Shortcuts/releases/tag/v1.2.3) · [ZIP herunterladen](https://github.com/Schrotty74/Shortcuts/releases/download/v1.2.3/weather-for-city-1.2.3.zip) · [Prüfsummen](https://github.com/Schrotty74/Shortcuts/releases/download/v1.2.3/weather-for-city-1.2.3.zip.sha256)
 <!-- release-status:Shortcuts:end -->
 [Shortcut-Sammlung](https://github.com/Schrotty74/Shortcuts) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/shortcuts/)
 
@@ -134,7 +134,7 @@ Native macOS-Menüleisten-App für `nzblnk:`-Links, Kategorieauswahl und die Üb
 Enigma2-Plugins für ARM-Receiver, darunter Box Systeminfo mit Angaben zu Receiver, Image, Speicher, CPU, Netzwerk und Tunern.
 
 <!-- release-status:Enigma-Plugins:start -->
-**Status:** Final [boxsysteminfo-v0.1.9](https://github.com/Schrotty74/Enigma-Plugins/releases/tag/boxsysteminfo-v0.1.9) · [IPK herunterladen](https://github.com/Schrotty74/Enigma-Plugins/releases/download/boxsysteminfo-v0.1.9/enigma2-plugin-extensions-boxsysteminfo_0.1.9_armv7ahf-neon.ipk)
+**Status:** Final [boxsysteminfo-v0.1.9](https://github.com/Schrotty74/Enigma-Plugins/releases/tag/boxsysteminfo-v0.1.9) · [IPK herunterladen](https://github.com/Schrotty74/Enigma-Plugins/releases/download/boxsysteminfo-v0.1.9/enigma2-plugin-extensions-boxsysteminfo_0.1.9_armv7ahf-neon.ipk) · [Prüfsummen](https://github.com/Schrotty74/Enigma-Plugins/releases/download/boxsysteminfo-v0.1.9/boxsysteminfo_0.1.9.sha256)
 <!-- release-status:Enigma-Plugins:end -->
 [GitHub](https://github.com/Schrotty74/Enigma-Plugins) · [Releases](https://github.com/Schrotty74/Enigma-Plugins/releases)
 
@@ -143,7 +143,7 @@ Enigma2-Plugins für ARM-Receiver, darunter Box Systeminfo mit Angaben zu Receiv
 Homebrew-Apps für LG-G-Fernseher mit webOS, darunter ein Systemmonitor für CPU, RAM, Prozesse, Speicher und Firmware.
 
 <!-- release-status:LG-G5-Apps:start -->
-**Status:** Entwicklung (bisher kein GitHub-Release)
+**Status:** Entwicklung
 <!-- release-status:LG-G5-Apps:end -->
 [GitHub](https://github.com/Schrotty74/LG-G5-Apps) · [G5 System Monitor 0.8.0 (IPK)](https://github.com/Schrotty74/LG-G5-Apps/raw/refs/heads/main/apps/system-monitor/g5-system-monitor_0.8.0_all.ipk)
 
