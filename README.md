@@ -131,7 +131,7 @@ Native macOS menu bar app for `nzblnk:` links, category selection and SABnzbd su
 
 ### Enigma-Plugins
 
-Enigma2 plugins for ARM receivers, including Box Systeminfo for receiver, image, storage, CPU, network and tuner details.
+Collection of Enigma2 plugins for ARM receivers.
 
 <!-- release-status:Enigma-Plugins:start -->
 **Status:** Collection
@@ -140,7 +140,7 @@ Enigma2 plugins for ARM receivers, including Box Systeminfo for receiver, image,
 
 ### LG-G5-Apps
 
-Homebrew apps for LG G-series TVs running webOS, including a system monitor for CPU, RAM, processes, storage and firmware.
+Collection of homebrew apps for LG TVs running webOS.
 
 <!-- release-status:LG-G5-Apps:start -->
 **Status:** Collection
