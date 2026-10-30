@@ -44,7 +44,7 @@ Lokale App-Sammlungen, Metadaten und Lizenzinformationen organisieren.  \
 
 Lokale Dateien und Backups unter macOS indizieren, vergleichen und verwalten.  \
 <!-- release-status:FileAtlas:start -->
-**Status:** Beta [v1.11.0-beta.3](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0-beta.3) · Final [v1.11.0](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0) · [DMG herunterladen](https://github.com/Schrotty74/FileAtlas/releases/download/v1.11.0/FileAtlas.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/FileAtlas/releases/download/v1.11.0/FileAtlas.zip)
+**Status:** Beta [v1.11.0-beta.3](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0-beta.3) · Final [v1.11.0](https://github.com/Schrotty74/FileAtlas/releases/tag/v1.11.0) · [DMG herunterladen](https://github.com/Schrotty74/FileAtlas/releases/download/v1.11.0/FileAtlas.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/FileAtlas/releases/download/v1.11.0/FileAtlas.zip) · [Prüfsummen](https://github.com/Schrotty74/FileAtlas/releases/download/v1.11.0/SHA256SUMS.txt)
 <!-- release-status:FileAtlas:end -->
 [GitHub](https://github.com/Schrotty74/FileAtlas) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/fileatlas/)
 
@@ -125,7 +125,7 @@ Eine Sammlung eigener, importierbarer animierter Pets für ChatGPT und Codex.  \
 Native macOS-Menüleisten-App für `nzblnk:`-Links, Kategorieauswahl und die Übergabe an SABnzbd.
 
 <!-- release-status:NZBPort:start -->
-**Status:** Beta [v0.2](https://github.com/Schrotty74/NZBPort/releases/tag/v0.2) · Final [v0.1.0](https://github.com/Schrotty74/NZBPort/releases/tag/v0.1.0) · [DMG herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2/NZBPort-0.2-arm64.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2/NZBPort-0.2-arm64.zip)
+**Status:** Beta [v0.2](https://github.com/Schrotty74/NZBPort/releases/tag/v0.2) · Final [v0.1.0](https://github.com/Schrotty74/NZBPort/releases/tag/v0.1.0) · [DMG herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2/NZBPort-0.2-arm64.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2/NZBPort-0.2-arm64.zip) · [Prüfsummen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2/SHA256SUMS-0.2.txt)
 <!-- release-status:NZBPort:end -->
 [GitHub](https://github.com/Schrotty74/NZBPort) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/nzbport/)
 
