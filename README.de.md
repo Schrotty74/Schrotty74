@@ -116,7 +116,7 @@ Eine Sammlung eigener, importierbarer animierter Pets für ChatGPT und Codex.  \
 
 Öffentliche Apple-Kurzbefehle mit Vorschaubildern, Datenschutzberichten, signierten Downloads, Prüfsummen und zweisprachiger Dokumentation.  \
 <!-- release-status:Shortcuts:start -->
-**Status:** Final [v1.2.3](https://github.com/Schrotty74/Shortcuts/releases/tag/v1.2.3) · [ZIP herunterladen](https://github.com/Schrotty74/Shortcuts/releases/download/v1.2.3/weather-for-city-1.2.3.zip) · [Prüfsummen](https://github.com/Schrotty74/Shortcuts/releases/download/v1.2.3/weather-for-city-1.2.3.zip.sha256)
+**Status:** Final [v1.2.4](https://github.com/Schrotty74/Shortcuts/releases/tag/v1.2.4) · [ZIP herunterladen](https://github.com/Schrotty74/Shortcuts/releases/download/v1.2.4/weather-for-city-1.2.4.zip) · [Prüfsummen](https://github.com/Schrotty74/Shortcuts/releases/download/v1.2.4/weather-for-city-1.2.4.zip.sha256)
 <!-- release-status:Shortcuts:end -->
 [Shortcut-Sammlung](https://github.com/Schrotty74/Shortcuts) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/shortcuts/)
 
@@ -125,7 +125,7 @@ Eine Sammlung eigener, importierbarer animierter Pets für ChatGPT und Codex.  \
 Native macOS-Menüleisten-App für `nzblnk:`-Links, Kategorieauswahl und die Übergabe an SABnzbd.
 
 <!-- release-status:NZBPort:start -->
-**Status:** Beta [v0.2](https://github.com/Schrotty74/NZBPort/releases/tag/v0.2) · Final [v0.1.0](https://github.com/Schrotty74/NZBPort/releases/tag/v0.1.0) · [DMG herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2/NZBPort-0.2-arm64.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2/NZBPort-0.2-arm64.zip) · [Prüfsummen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2/SHA256SUMS-0.2.txt)
+**Status:** Beta [v0.2.1](https://github.com/Schrotty74/NZBPort/releases/tag/v0.2.1) · Final [v0.1.0](https://github.com/Schrotty74/NZBPort/releases/tag/v0.1.0) · [DMG herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2.1/NZBPort-0.2.1-arm64.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2.1/NZBPort-0.2.1-arm64.zip) · [Prüfsummen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2.1/SHA256SUMS-0.2.1.txt)
 <!-- release-status:NZBPort:end -->
 [GitHub](https://github.com/Schrotty74/NZBPort) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/nzbport/)
 
