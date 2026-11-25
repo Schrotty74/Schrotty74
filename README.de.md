@@ -125,7 +125,7 @@ Eine Sammlung eigener, importierbarer animierter Pets für ChatGPT und Codex.  \
 Native macOS-Menüleisten-App für `nzblnk:`-Links, Kategorieauswahl und die Übergabe an SABnzbd.
 
 <!-- release-status:NZBPort:start -->
-**Status:** Beta [v0.2.6](https://github.com/Schrotty74/NZBPort/releases/tag/v0.2.6) · Final [v0.1.0](https://github.com/Schrotty74/NZBPort/releases/tag/v0.1.0) · [DMG herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2.6/NZBPort-0.2.6-arm64.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2.6/NZBPort-0.2.6-arm64.zip) · [Prüfsummen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2.6/SHA256SUMS-0.2.6.txt)
+**Status:** Beta [v0.2.7](https://github.com/Schrotty74/NZBPort/releases/tag/v0.2.7) · Final [v0.1.0](https://github.com/Schrotty74/NZBPort/releases/tag/v0.1.0) · [DMG herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2.7/NZBPort-0.2.7-arm64.dmg) · [ZIP herunterladen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2.7/NZBPort-0.2.7-arm64.zip) · [Prüfsummen](https://github.com/Schrotty74/NZBPort/releases/download/v0.2.7/SHA256SUMS-0.2.7.txt)
 <!-- release-status:NZBPort:end -->
 [GitHub](https://github.com/Schrotty74/NZBPort) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/nzbport/)
 
