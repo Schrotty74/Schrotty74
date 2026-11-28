@@ -76,7 +76,7 @@ Lokale, responsive Budget-PWA mit Offline-Unterstützung, Excel-/PDF-/PNG-Export
 
 Vertikales Cyberpunk-Arcade-Spiel mit vierzehn Leveln, aufrüstbarem Roboter-Eispickel, adaptiver Grafik bis 4K und eigenem Techno-Soundtrack.<br>
 <!-- release-status:Skybreak-Protocol:start -->
-**Status:** Beta [v1.0.1-beta.8](https://github.com/Schrotty74/Skybreak-Protocol/releases/tag/v1.0.1-beta.8) · Final [v1.0.1](https://github.com/Schrotty74/Skybreak-Protocol/releases/tag/v1.0.1) · [ZIP herunterladen](https://github.com/Schrotty74/Skybreak-Protocol/releases/download/v1.0.1/Skybreak-Protocol-1.0.1-offline.zip)
+**Status:** Beta [v1.0.1-beta.8](https://github.com/Schrotty74/Skybreak-Protocol/releases/tag/v1.0.1-beta.8) · Final [v1.1.0](https://github.com/Schrotty74/Skybreak-Protocol/releases/tag/v1.1.0) · [ZIP herunterladen](https://github.com/Schrotty74/Skybreak-Protocol/releases/download/v1.1.0/Skybreak-Protocol-1.1.0-offline.zip)
 <!-- release-status:Skybreak-Protocol:end -->
 [Spiel starten](https://schrotty74.github.io/Skybreak-Protocol/) · [GitHub](https://github.com/Schrotty74/Skybreak-Protocol) · [Portfolio](https://schrotty74.github.io/Portfolio/de/apps/skybreak-protocol/)
 
